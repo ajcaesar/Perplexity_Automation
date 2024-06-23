@@ -1,5 +1,4 @@
 # Perplexity_Automation
-# Perplexity_Automation
 Automating the research process with Perplexity without spending on the API. 
 
 I created this with the intention of making it easier to utilize generative ai models like perplexity for doing research that involves asking repeat prompts about
