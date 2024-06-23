@@ -1,6 +1,8 @@
 # Perplexity_Automation
 Automating the research process with Perplexity without spending on the API. 
 
+this project uses selenium chromedriver to simulate a person using the Perplexity UI to ask a prompt and read a response so that it can be applied to large scale research. if you run the function in its default mode (not headless) you will very clearly see what this means. 
+
 I created this with the intention of making it easier to utilize generative ai models like perplexity for doing research that involves asking repeat prompts about
 many data points. For example, asking perplexity what the birthdate, political party, and 3 most important achievements of all US presidents are and exporting its responses in csv form for research. It was fun getting to use selenium and hunting 
 through perplexity's DOM to find where different information is stored. 
